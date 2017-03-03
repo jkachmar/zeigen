@@ -10,6 +10,7 @@
   "author": "Joe Kachmar",
   "license": "MIT",
   "dependencies": {
+    "fantasy-eithers": "0.0.2",
     "fantasy-readers": "0.0.1",
     "fluture": "^5.0.0",
     "node-fetch": "^1.6.3"
