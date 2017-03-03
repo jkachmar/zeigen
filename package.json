@@ -1,0 +1,24 @@
+{
+  "name": "zeigen",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Kachmar",
+  "license": "MIT",
+  "dependencies": {
+    "fantasy-readers": "0.0.1",
+    "fluture": "^5.0.0",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0"
+  }
+}
